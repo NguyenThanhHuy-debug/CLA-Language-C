@@ -71,5 +71,6 @@ int kq = ops[2](8, 4);                           // goi nhan(8, 4) =32
 
 phepTinh op = cong;
 int (*old)(int , int) = cong;
+
     return 0;
 }
